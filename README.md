@@ -1,12 +1,6 @@
 # Arduino Obstacle Avoiding Robot using Ultrasonic Sensor
 
-[![Arduino](https://img.shields.io/badge/Arduino-Uno/Nano-blue?style=for-the-badge)](https://circuitdigest.com/microcontroller-projects/arduino-obstacle-avoding-robot) [![Embedded C](https://img.shields.io/badge/Language-EmbeddedC-orange?style=for-the-badge)]() [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
 This project demonstrates how to build a **smart autonomous robot** that detects and avoids obstacles using an **HC-SR04 ultrasonic sensor** and **Arduino Uno/Nano**. Ideal for beginners, this robot uses simple embedded logic to detect nearby objects and change direction accordingly.
-
-![Obstacle Avoiding Robot](https://circuitdigest.com/sites/default/files/projectimage_mic/arduino-obstacle-avoiding-robot.jpg)
-
----
 
 ## 🚀 Features
 
@@ -14,7 +8,6 @@ This project demonstrates how to build a **smart autonomous robot** that detects
 - Utilizes HC-SR04 with real-time distance measurement  
 - Motor control using L298N driver module  
 - Lightweight, compact, and beginner-friendly  
-- Applicable for robotics education and hobbyist builds  
 
 ---
 
@@ -148,27 +141,4 @@ void loop() {
 
 ---
 
-## 🔗 Links
 
-- 📖 [Project Tutorial on Circuit Digest](https://circuitdigest.com/microcontroller-projects/arduino-obstacle-avoding-robot)  
-- 📦 [L298N Datasheet](https://www.ti.com/lit/ds/symlink/l298.pdf)  
-- 📡 [Ultrasonic Sensor Projects](https://circuitdigest.com/tags/ultrasonic-sensor)  
-- 🔁 [More Arduino Projects](https://circuitdigest.com/arduino-projects)  
-
----
-
-## ⭐ Support
-
-If you found this helpful, please ⭐ star this repository and share it with fellow makers!
-
----
-
-**Built with 🤖 by [Circuit Digest](https://circuitdigest.com/)**  
-_Making Electronics Simple_
-
----
-
-### 🔖 Keywords
-
-`arduino obstacle avoiding robot` `ultrasonic sensor project` `L298N motor driver` `robotics with Arduino`  
-`autonomous robot` `arduino nano uno bot` `embedded systems DIY`
